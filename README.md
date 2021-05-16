@@ -1,1 +1,2 @@
 # Venture
+What's next for Venture: We hope to implement the similar chat-bot technology with our users/employers. This technology has proven to be a very user-friendly and a simplified method of filtering data. We also want to take Venture to a larger scale and assist many small and local businesses find ideal employees. Our immediate goal would be to make this platform available pan-India and promote all kinds of local businesses, including street vendors and small mobile businesses.
